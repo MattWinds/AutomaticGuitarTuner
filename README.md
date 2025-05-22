@@ -6,6 +6,6 @@ The overall objective of this project was to create an automated guitar tuner by
 
 Attached are 4 files:
 ELEC_3355_FINAL_ARDUINO: Arduino File
-ELEC_3355_FINAL_MATLAB: Matlab File 
+ELEC_3355_FINAL_MATLAB: Matlab File
 ControlSystemsData.xlsx: Measured Data in Excel format
 ELEC3355_REPORT_WINDSOR_DELACRUZ: PDF report 
